@@ -1,0 +1,6 @@
+.info {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 5vw;
+}

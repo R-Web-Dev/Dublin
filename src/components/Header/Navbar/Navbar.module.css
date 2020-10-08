@@ -1,0 +1,25 @@
+.nav {
+    padding-top: 20px;
+}
+
+
+.nav li {
+    list-style: none;
+    display: inline-flex;
+    padding: 0 10px;
+}
+
+.nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav a.active {
+    color: #fff;
+    padding: 2px 5px;
+    background-color: #d2d2d5;
+    border-radius: 5px;
+    border: 1px solid #656572;
+}
+
+

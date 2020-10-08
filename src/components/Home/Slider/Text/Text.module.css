@@ -1,0 +1,39 @@
+.text {
+    color: #fff;
+    margin-right: 40px;
+    text-align: right;
+}
+
+.text h1 {
+    color: #e7e8ea;
+    font-size: 5vw;
+    font-weight: bold;
+}
+
+.text h2 {
+    font-size: 4vw;
+    color: #d7d7e3;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+
+.text p {
+    margin-bottom: 40px;
+    font-size: 1.5vw;
+}
+
+.text a {
+
+    font-size: 1.5vw;
+    padding: 1.7vh 3.5vw;
+    background: #2257a3;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 3vh;
+}
+
+.shadow {
+    margin-top: 4vw;
+}
+

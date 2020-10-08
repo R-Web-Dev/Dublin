@@ -1,0 +1,44 @@
+.prod{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.prod h3{
+    margin-left: 255px;
+    color: #505050;
+}
+
+.prod span{
+    display: block;
+    font-size: 12px;
+    color: #b1b9c6;
+    margin-left: 260px;
+}
+
+.prod img{
+    float: left;
+    margin-right: 45px;
+}
+
+.col_right{
+    margin-top: 30px;
+}
+
+.col_right p{
+    font-size: 14px;
+    color: #828181;
+    margin-bottom: 13px;
+    margin-left: 10px;
+}
+
+.col_right a{
+    display: inline-block;
+    font-size: 20px;
+    padding: 5px 25px;
+    background: #2257a3;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-left: 23px;
+}

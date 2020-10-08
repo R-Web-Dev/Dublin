@@ -1,0 +1,38 @@
+.dates {
+
+    display: inline-flex;
+    flex-direction: column;
+    padding: 2vh 6vw;
+    border-right: 2px solid #d7d6d7;
+}
+
+.dates input,textarea {
+    background-color: #eff1f4;
+    color: #9d9d9d;
+    width: 25vw;
+    height: 6vh;
+    margin-bottom: 5vh;
+    border: 1px solid #c9c9c9;
+    border-radius: 5px;
+    padding-left: 2vw;
+    text-transform: capitalize;
+    font-size: 1.1vw;
+}
+
+.dates textarea {
+    height: 16vh;
+    padding-top: 1vw;
+    font-size: 1.2vw;
+}
+
+.dates button {
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: flex-end;
+    align-self: flex-end;
+    padding: 1vh 2.5vw;
+    border: none;
+    border-radius: 5px;
+    background-color: #2154a0;
+    color: #fff;
+}

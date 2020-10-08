@@ -1,0 +1,59 @@
+.flaer{
+    margin-top: 30px;
+    display: flex;
+    width: 60%;
+    justify-content: center;
+    border-top: 1px solid #e1e2e4;
+    border-bottom: 1px solid #e1e2e4;
+    flex-wrap: wrap;
+    padding: 12px 0;
+    margin: 30px auto;
+    background-color: #ebecee;
+}
+
+.flaer p{
+    
+    font-size: 14px;
+}
+
+.flaer span{
+    color: #8291a7;
+}
+
+article{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.article{
+    width: 30%;
+    margin: 0 20px;
+}
+
+.article img{
+    float: left;
+    margin: 5px 10px 0 0;
+}
+
+article h3{
+    color: #505050;
+    
+}
+
+.article span{
+    color: #5f7390;
+    
+}
+
+.article p{
+    font-size: 14px;
+    color: #505050;
+    padding-top: 20px;
+    text-align: justify;
+}
+
+
+
+
+

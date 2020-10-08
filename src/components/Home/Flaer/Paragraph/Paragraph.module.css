@@ -1,0 +1,15 @@
+.paragraph{
+    margin-top: 6vh;
+    width: 80%;
+}
+
+.paragraph p:first-child{
+    border-top: 1px solid #828181;
+}
+
+.paragraph p{
+    font-size: 1.1vw;
+    color: #828181;
+    border-bottom: 1px solid #828181;
+    padding: 7px 0 7px 0;
+}

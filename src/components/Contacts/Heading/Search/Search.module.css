@@ -1,0 +1,24 @@
+.search {
+    align-self: center;
+    padding-right: 3vw;
+    color: #ccc;
+}
+
+.search input {
+    color: #bebebe;
+    background: url(/images/search.png) no-repeat;
+    background-color: #fff;
+    background-position: 5% 50%;
+    padding: 1vh 1vw 1vh 2vw;
+    border-radius: 30px;
+    border: 1px solid #c9c9c9;
+}
+
+.search 
+::-webkit-input-placeholder {color:#bebebe;}
+::-moz-placeholder          {color:#bebebe;}/* Firefox 19+ */
+:-moz-placeholder           {color:#bebebe;}/* Firefox 18- */
+:-ms-input-placeholder      {color:#bebebe;}
+
+
+

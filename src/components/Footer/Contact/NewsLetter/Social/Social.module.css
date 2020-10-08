@@ -1,0 +1,18 @@
+
+
+.social li{
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 0;
+}
+
+.social a{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    color: #6d6d84;
+    background-color: #464659;
+    border-radius: 50%;
+    padding: 5px;
+    text-align: center;
+}

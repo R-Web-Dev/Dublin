@@ -1,0 +1,88 @@
+.current {
+    display: none;
+}
+
+.flaer {
+    margin-top: 30px;
+    display: flex;
+    width: 60%;
+    justify-content: center;
+    border-top: 1px solid #e1e2e4;
+    border-bottom: 1px solid #e1e2e4;
+    flex-wrap: wrap;
+    padding: 12px 0;
+    margin: 30px auto;
+    background-color: #ebecee;
+}
+
+.flaer p {
+
+    font-size: 14px;
+}
+
+.flaer span {
+    color: #8291a7;
+}
+
+
+
+.product {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.product h3 {
+    margin-left: 255px;
+    color: #505050;
+}
+
+.product span {
+    display: block;
+    font-size: 12px;
+    color: #b1b9c6;
+    margin-left: 260px;
+}
+
+.product img {
+    float: left;
+    margin-right: 45px;
+}
+
+.col-right {
+    margin-top: 30px;
+}
+
+.col-right p {
+    font-size: 14px;
+    color: #828181;
+    margin-bottom: 13px;
+    margin-left: 10px;
+}
+
+.col-right a {
+    display: inline-block;
+    font-size: 20px;
+    padding: 5px 25px;
+    background: #2257a3;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-left: 23px;
+}
+
+.paragraph {
+    margin-top: 50px;
+    width: 80%;
+}
+
+.paragraph p:first-child {
+    border-top: 1px solid #828181;
+}
+
+.paragraph p {
+    font-size: 14px;
+    color: #828181;
+    border-bottom: 1px solid #828181;
+    padding: 7px 0 7px 0;
+}

@@ -1,0 +1,62 @@
+.contact_form h3 {
+    display: flex;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.align {
+    display: flex;
+    
+    
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    margin: 5px 15px 0px 0px;
+}
+
+.left input {
+    width: 15vw;
+    margin-bottom: 2.5vh;
+    border: none;
+    border-radius: 5px;
+    background: #242439;
+    height: 4vh;
+    padding-left: 1vw;
+}
+
+.right {
+    display: flex;
+    width: 50%;
+    margin: 5px;
+}
+
+
+
+.right textarea {
+    width: 16vw;
+    height: 17vh;
+    border: none;
+    border-radius: 5px;
+    background-color: #242439;
+    padding-left: 1vw;
+}
+
+.btn {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-bottom: 10px;
+}
+    
+    
+
+.btn  button{
+    cursor: pointer;
+    color: #363648;
+    background-color: #fff;
+    padding: 4px 15px;
+    border-radius: 7px;
+    border: none;
+    
+}

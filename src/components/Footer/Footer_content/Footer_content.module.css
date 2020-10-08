@@ -1,0 +1,35 @@
+.footer_content {
+    border-bottom: 2px solid #fff;
+   
+}
+
+.twitter {
+    font-size: 3vw;
+}
+
+ .twitter a{
+    float: left;
+    color: #363647;
+    padding: 1vh 0.8vw;
+    background-color: #e7e8ea;
+    border-radius: 50px;
+    text-align: center;
+    vertical-align: middle;
+    margin: 2vh 2vw 0 0;
+
+}
+
+ .footer_text {
+    color: #93939f;
+
+    padding-top: 20px;
+}
+
+ .footnote {
+    display: flex;
+    flex-direction: row-reverse;
+    font-family: Contra Italic;
+    color: #b3b3bb;
+    padding-right: 9vw;
+
+}

@@ -1,0 +1,21 @@
+.description {
+    padding-left: 0.5rem;
+    padding-top: 1rem;
+}
+
+.description h3 {
+    font-size: 1.8vw;
+}
+
+.description p {
+    color: #5f7390;
+}
+
+.description button {
+    color: #fff;
+    padding: 0.4rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #255cab;
+    
+}

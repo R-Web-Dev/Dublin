@@ -1,0 +1,12 @@
+.adress {
+    
+    background-color: #ebedf0;
+    padding: 2vh 0 4vh 0;
+    border-radius: 10px;
+}
+
+.adress h4 {
+    padding: 1vh 0 1vh 2vw;
+    font-size: 2vw;
+    color: #cecece;
+}

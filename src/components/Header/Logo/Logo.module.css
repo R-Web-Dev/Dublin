@@ -1,0 +1,13 @@
+.logo a{
+    background: url(/images/logo.png) left no-repeat;
+    font-family: FlareLightGothic;
+    font-size: 4vw;
+    color: #fff;
+    text-decoration: none;
+    padding-left: 3.7vw;
+}
+
+.logo p{
+    color: #fff;
+    padding-left: 3.7vw;
+}
